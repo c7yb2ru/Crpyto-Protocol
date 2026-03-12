@@ -3,5 +3,5 @@
 <br>
 <br>
 암호화, 복호화 개발연습장
-Python, C_C++, Rust
+Python, C_C++,
 
